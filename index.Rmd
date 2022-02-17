@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](https://img.freepik.com/free-vector/two-girls-best-friends-fall-hand-drawn-illustration_78188-105.jpg)
 
-<center> **Two girls, best friends in the fall** </center>
+<center> **Two girls, and best friends in the fall** </center>

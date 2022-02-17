@@ -9,8 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Information about me
 
-- A first-year master student of Applied Economics and Management at Cornell University.
+- A first-year master student of Applied Economics and Management at Cornell University
 
-- Love cooking and travelling.
+- Love cooking and travelling
 
-- Hometown: Zhengzhou, China.
+- Hometown: Zhengzhou, China
