@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Information about me
 
-- A first-year master student of Applied Economics and Management at Cornell University
+- A first-year master student in Applied Economics and Management at Cornell University
 
 - Love cooking and travelling
 
