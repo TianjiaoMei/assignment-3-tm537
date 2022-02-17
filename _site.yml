@@ -6,7 +6,7 @@ navbar:
     - text: "Tianjiao"
       href: Tianjiao.html
     - text: "Xiaorui"
-      href: Xiaorui.html  
+      href: Xiaorui.html
       
 output:
   html_document:
